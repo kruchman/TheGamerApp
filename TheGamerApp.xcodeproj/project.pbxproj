@@ -1,0 +1,763 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		79834A162AF544E600520AF3 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A152AF544E600520AF3 /* MainView.swift */; };
+		79834A1D2AF54F2700520AF3 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A1C2AF54F2700520AF3 /* CustomButton.swift */; };
+		79834A202AF555E600520AF3 /* CusttomTextFieldStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A1F2AF555E600520AF3 /* CusttomTextFieldStyle.swift */; };
+		79834A252AF5574E00520AF3 /* StringExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A242AF5574E00520AF3 /* StringExt.swift */; };
+		79834A272AF55A2100520AF3 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A262AF55A2100520AF3 /* CustomTextField.swift */; };
+		79834A292AF5620100520AF3 /* EnterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A282AF5620100520AF3 /* EnterViewModel.swift */; };
+		79834A2B2AF565C400520AF3 /* Regex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A2A2AF565C400520AF3 /* Regex.swift */; };
+		79834A2F2AF6BC7400520AF3 /* GradientBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A2E2AF6BC7400520AF3 /* GradientBackgroundView.swift */; };
+		79834A322AF7F9FC00520AF3 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 79834A312AF7F9FC00520AF3 /* FirebaseAuth */; };
+		79834A342AF80C0800520AF3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 79834A332AF80C0800520AF3 /* GoogleService-Info.plist */; };
+		79834A362AF8339C00520AF3 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A352AF8339C00520AF3 /* UserProfile.swift */; };
+		79834A3A2AF834DE00520AF3 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A392AF834DE00520AF3 /* DataManager.swift */; };
+		79834A3D2AF839AA00520AF3 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 79834A3C2AF839AA00520AF3 /* FirebaseFirestore */; };
+		79834A462AF981BA00520AF3 /* UsersList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A452AF981BA00520AF3 /* UsersList.swift */; };
+		79834A482AF981C900520AF3 /* ChatsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A472AF981C900520AF3 /* ChatsList.swift */; };
+		79834A4A2AF981D500520AF3 /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A492AF981D500520AF3 /* Favorites.swift */; };
+		79834A4C2AF981DE00520AF3 /* GameSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A4B2AF981DE00520AF3 /* GameSelectionView.swift */; };
+		79834A4F2AF990B800520AF3 /* GameSelectionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79834A4E2AF990B800520AF3 /* GameSelectionViewModel.swift */; };
+		7989CB402B02AB8A00B793BD /* DotaProfileExistingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7989CB3F2B02AB8A00B793BD /* DotaProfileExistingView.swift */; };
+		7989CB422B02ABD800B793BD /* DotaProfileExistingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7989CB412B02ABD800B793BD /* DotaProfileExistingViewModel.swift */; };
+		7989CB4A2B055F2500B793BD /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7989CB492B055F2500B793BD /* LoadingView.swift */; };
+		7989CB502B07D16400B793BD /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7989CB4F2B07D16400B793BD /* User.swift */; };
+		7989CB522B07D5A000B793BD /* DotaProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7989CB512B07D5A000B793BD /* DotaProfileView.swift */; };
+		7989CB582B0908C600B793BD /* DotaProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7989CB572B0908C600B793BD /* DotaProfileViewModel.swift */; };
+		7989CB5A2B09329100B793BD /* LogOutButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7989CB592B09329100B793BD /* LogOutButton.swift */; };
+		799BCBBB2AFBEC4000DB265B /* DotaProfileSetUpFirstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBBA2AFBEC4000DB265B /* DotaProfileSetUpFirstView.swift */; };
+		799BCBBF2AFC25C200DB265B /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 799BCBBE2AFC25C200DB265B /* FirebaseStorage */; };
+		799BCBC12AFC280B00DB265B /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBC02AFC280B00DB265B /* StorageManager.swift */; };
+		799BCBC32AFC2AAD00DB265B /* ErrorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBC22AFC2AAD00DB265B /* ErrorManager.swift */; };
+		799BCBC52AFC2E4700DB265B /* DotaProfileSetUpViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBC42AFC2E4700DB265B /* DotaProfileSetUpViewModel.swift */; };
+		799BCBC72AFC570900DB265B /* DotaHeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBC62AFC570900DB265B /* DotaHeroes.swift */; };
+		799BCBC92AFD66CC00DB265B /* DotaProfileSetUpSecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBC82AFD66CC00DB265B /* DotaProfileSetUpSecondView.swift */; };
+		799BCBCB2AFD843D00DB265B /* HeroPlaceholderImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBCA2AFD843D00DB265B /* HeroPlaceholderImage.swift */; };
+		799BCBCD2AFD8A1500DB265B /* ImageExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBCC2AFD8A1500DB265B /* ImageExt.swift */; };
+		799BCBCF2AFEBDA100DB265B /* UserAvatarPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBCE2AFEBDA100DB265B /* UserAvatarPlaceholder.swift */; };
+		799BCBD92AFFEF3F00DB265B /* GameCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBD82AFFEF3F00DB265B /* GameCell.swift */; };
+		799BCBDE2B000D6A00DB265B /* ComingSoonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBDD2B000D6A00DB265B /* ComingSoonView.swift */; };
+		799BCBE02B00112200DB265B /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799BCBDF2B00112200DB265B /* Game.swift */; };
+		79B3831C2B13A89D0015169B /* UsersDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B3831B2B13A89D0015169B /* UsersDetailView.swift */; };
+		79B383202B13DD320015169B /* UsersDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B3831F2B13DD320015169B /* UsersDetailViewModel.swift */; };
+		79B383232B13E4930015169B /* FavoritesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383222B13E4930015169B /* FavoritesViewModel.swift */; };
+		79B383252B13EA500015169B /* FavoritesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383242B13EA500015169B /* FavoritesDetailView.swift */; };
+		79B383572B1697930015169B /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383562B1697930015169B /* Chat.swift */; };
+		79B383592B1697F60015169B /* ChatsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383582B1697F60015169B /* ChatsViewModel.swift */; };
+		79B3835B2B16985D0015169B /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 79B3835A2B16985D0015169B /* FirebaseFirestoreSwift */; };
+		79B3835D2B1699490015169B /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B3835C2B1699490015169B /* Message.swift */; };
+		79B3835F2B169D950015169B /* ChatCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B3835E2B169D950015169B /* ChatCell.swift */; };
+		79B383612B1A51B40015169B /* ChatDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383602B1A51B40015169B /* ChatDetailView.swift */; };
+		79B383632B1A52C00015169B /* TitleRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383622B1A52C00015169B /* TitleRow.swift */; };
+		79B383652B1A6F2F0015169B /* MessageBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383642B1A6F2F0015169B /* MessageBubble.swift */; };
+		79B383672B1A77210015169B /* MessageTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383662B1A77210015169B /* MessageTextField.swift */; };
+		79B383692B1E31680015169B /* CustomBackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B383682B1E31680015169B /* CustomBackButton.swift */; };
+		79E9851D2B10F4B7003B32E6 /* GamerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E9851C2B10F4B7003B32E6 /* GamerCell.swift */; };
+		79E985202B11097A003B32E6 /* UsersListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E9851F2B11097A003B32E6 /* UsersListViewModel.swift */; };
+		79F3D3742AF2E73B004ADC8F /* TheGamerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F3D3732AF2E73B004ADC8F /* TheGamerApp.swift */; };
+		79F3D3762AF2E73B004ADC8F /* EnterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F3D3752AF2E73B004ADC8F /* EnterView.swift */; };
+		79F3D3782AF2E73D004ADC8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79F3D3772AF2E73D004ADC8F /* Assets.xcassets */; };
+		79F3D37B2AF2E73D004ADC8F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79F3D37A2AF2E73D004ADC8F /* Preview Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		79834A152AF544E600520AF3 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		79834A1C2AF54F2700520AF3 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		79834A1F2AF555E600520AF3 /* CusttomTextFieldStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CusttomTextFieldStyle.swift; sourceTree = "<group>"; };
+		79834A242AF5574E00520AF3 /* StringExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExt.swift; sourceTree = "<group>"; };
+		79834A262AF55A2100520AF3 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		79834A282AF5620100520AF3 /* EnterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterViewModel.swift; sourceTree = "<group>"; };
+		79834A2A2AF565C400520AF3 /* Regex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Regex.swift; sourceTree = "<group>"; };
+		79834A2E2AF6BC7400520AF3 /* GradientBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBackgroundView.swift; sourceTree = "<group>"; };
+		79834A332AF80C0800520AF3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		79834A352AF8339C00520AF3 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		79834A392AF834DE00520AF3 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		79834A452AF981BA00520AF3 /* UsersList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersList.swift; sourceTree = "<group>"; };
+		79834A472AF981C900520AF3 /* ChatsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatsList.swift; sourceTree = "<group>"; };
+		79834A492AF981D500520AF3 /* Favorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorites.swift; sourceTree = "<group>"; };
+		79834A4B2AF981DE00520AF3 /* GameSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSelectionView.swift; sourceTree = "<group>"; };
+		79834A4E2AF990B800520AF3 /* GameSelectionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSelectionViewModel.swift; sourceTree = "<group>"; };
+		7989CB3F2B02AB8A00B793BD /* DotaProfileExistingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotaProfileExistingView.swift; sourceTree = "<group>"; };
+		7989CB412B02ABD800B793BD /* DotaProfileExistingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotaProfileExistingViewModel.swift; sourceTree = "<group>"; };
+		7989CB492B055F2500B793BD /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		7989CB4F2B07D16400B793BD /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		7989CB512B07D5A000B793BD /* DotaProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotaProfileView.swift; sourceTree = "<group>"; };
+		7989CB572B0908C600B793BD /* DotaProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotaProfileViewModel.swift; sourceTree = "<group>"; };
+		7989CB592B09329100B793BD /* LogOutButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogOutButton.swift; sourceTree = "<group>"; };
+		799BCBBA2AFBEC4000DB265B /* DotaProfileSetUpFirstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotaProfileSetUpFirstView.swift; sourceTree = "<group>"; };
+		799BCBC02AFC280B00DB265B /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
+		799BCBC22AFC2AAD00DB265B /* ErrorManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorManager.swift; sourceTree = "<group>"; };
+		799BCBC42AFC2E4700DB265B /* DotaProfileSetUpViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotaProfileSetUpViewModel.swift; sourceTree = "<group>"; };
+		799BCBC62AFC570900DB265B /* DotaHeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotaHeroes.swift; sourceTree = "<group>"; };
+		799BCBC82AFD66CC00DB265B /* DotaProfileSetUpSecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotaProfileSetUpSecondView.swift; sourceTree = "<group>"; };
+		799BCBCA2AFD843D00DB265B /* HeroPlaceholderImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroPlaceholderImage.swift; sourceTree = "<group>"; };
+		799BCBCC2AFD8A1500DB265B /* ImageExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExt.swift; sourceTree = "<group>"; };
+		799BCBCE2AFEBDA100DB265B /* UserAvatarPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAvatarPlaceholder.swift; sourceTree = "<group>"; };
+		799BCBD82AFFEF3F00DB265B /* GameCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCell.swift; sourceTree = "<group>"; };
+		799BCBDD2B000D6A00DB265B /* ComingSoonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComingSoonView.swift; sourceTree = "<group>"; };
+		799BCBDF2B00112200DB265B /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		79B3831B2B13A89D0015169B /* UsersDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersDetailView.swift; sourceTree = "<group>"; };
+		79B3831F2B13DD320015169B /* UsersDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersDetailViewModel.swift; sourceTree = "<group>"; };
+		79B383222B13E4930015169B /* FavoritesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesViewModel.swift; sourceTree = "<group>"; };
+		79B383242B13EA500015169B /* FavoritesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesDetailView.swift; sourceTree = "<group>"; };
+		79B383562B1697930015169B /* Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
+		79B383582B1697F60015169B /* ChatsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatsViewModel.swift; sourceTree = "<group>"; };
+		79B3835C2B1699490015169B /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		79B3835E2B169D950015169B /* ChatCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatCell.swift; sourceTree = "<group>"; };
+		79B383602B1A51B40015169B /* ChatDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatDetailView.swift; sourceTree = "<group>"; };
+		79B383622B1A52C00015169B /* TitleRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleRow.swift; sourceTree = "<group>"; };
+		79B383642B1A6F2F0015169B /* MessageBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageBubble.swift; sourceTree = "<group>"; };
+		79B383662B1A77210015169B /* MessageTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageTextField.swift; sourceTree = "<group>"; };
+		79B383682B1E31680015169B /* CustomBackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackButton.swift; sourceTree = "<group>"; };
+		79E9851C2B10F4B7003B32E6 /* GamerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamerCell.swift; sourceTree = "<group>"; };
+		79E9851F2B11097A003B32E6 /* UsersListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersListViewModel.swift; sourceTree = "<group>"; };
+		79F3D3702AF2E73B004ADC8F /* TheGamerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheGamerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		79F3D3732AF2E73B004ADC8F /* TheGamerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheGamerApp.swift; sourceTree = "<group>"; };
+		79F3D3752AF2E73B004ADC8F /* EnterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterView.swift; sourceTree = "<group>"; };
+		79F3D3772AF2E73D004ADC8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		79F3D37A2AF2E73D004ADC8F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		79F3D36D2AF2E73B004ADC8F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79834A322AF7F9FC00520AF3 /* FirebaseAuth in Frameworks */,
+				79834A3D2AF839AA00520AF3 /* FirebaseFirestore in Frameworks */,
+				799BCBBF2AFC25C200DB265B /* FirebaseStorage in Frameworks */,
+				79B3835B2B16985D0015169B /* FirebaseFirestoreSwift in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		79834A172AF54BF000520AF3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				79834A442AF9813F00520AF3 /* UI Elements */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		79834A1E2AF555D000520AF3 /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				79834A1F2AF555E600520AF3 /* CusttomTextFieldStyle.swift */,
+			);
+			path = Styles;
+			sourceTree = "<group>";
+		};
+		79834A212AF5571A00520AF3 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				79834A242AF5574E00520AF3 /* StringExt.swift */,
+				79834A2A2AF565C400520AF3 /* Regex.swift */,
+				799BCBCC2AFD8A1500DB265B /* ImageExt.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		79834A2C2AF58CC500520AF3 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				79B383552B16938B0015169B /* Chats */,
+				79B383212B13E4790015169B /* Favorites */,
+				79834A2D2AF58D0200520AF3 /* Enter */,
+				79E9851E2B110954003B32E6 /* Users List */,
+				79834A4D2AF990A800520AF3 /* Profile */,
+				79834A152AF544E600520AF3 /* MainView.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		79834A2D2AF58D0200520AF3 /* Enter */ = {
+			isa = PBXGroup;
+			children = (
+				79834A282AF5620100520AF3 /* EnterViewModel.swift */,
+				79F3D3752AF2E73B004ADC8F /* EnterView.swift */,
+				79834A4E2AF990B800520AF3 /* GameSelectionViewModel.swift */,
+				79834A4B2AF981DE00520AF3 /* GameSelectionView.swift */,
+			);
+			path = Enter;
+			sourceTree = "<group>";
+		};
+		79834A372AF834BA00520AF3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7989CB4F2B07D16400B793BD /* User.swift */,
+				79834A352AF8339C00520AF3 /* UserProfile.swift */,
+				799BCBDF2B00112200DB265B /* Game.swift */,
+				799BCBC62AFC570900DB265B /* DotaHeroes.swift */,
+				79B383562B1697930015169B /* Chat.swift */,
+				79B3835C2B1699490015169B /* Message.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		79834A382AF834CC00520AF3 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				79834A392AF834DE00520AF3 /* DataManager.swift */,
+				799BCBC02AFC280B00DB265B /* StorageManager.swift */,
+				799BCBC22AFC2AAD00DB265B /* ErrorManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		79834A3B2AF839AA00520AF3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		79834A442AF9813F00520AF3 /* UI Elements */ = {
+			isa = PBXGroup;
+			children = (
+				799BCBD72AFFEF2E00DB265B /* Cells */,
+				799BCBD62AFFEF1C00DB265B /* ImageViews */,
+				799BCBD52AFFEF0D00DB265B /* TextFields */,
+				799BCBD42AFFEEFF00DB265B /* Buttons */,
+				7989CB492B055F2500B793BD /* LoadingView.swift */,
+			);
+			path = "UI Elements";
+			sourceTree = "<group>";
+		};
+		79834A4D2AF990A800520AF3 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				799BCBB92AFBEBF600DB265B /* Dota Profile */,
+				799BCBDC2B000D5900DB265B /* Other Games View */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		7989CB432B02ABDD00B793BD /* ExistingDotaProfile */ = {
+			isa = PBXGroup;
+			children = (
+				7989CB412B02ABD800B793BD /* DotaProfileExistingViewModel.swift */,
+				7989CB3F2B02AB8A00B793BD /* DotaProfileExistingView.swift */,
+			);
+			path = ExistingDotaProfile;
+			sourceTree = "<group>";
+		};
+		7989CB442B02ABF600B793BD /* DotaProfileSettings */ = {
+			isa = PBXGroup;
+			children = (
+				799BCBC42AFC2E4700DB265B /* DotaProfileSetUpViewModel.swift */,
+				799BCBBA2AFBEC4000DB265B /* DotaProfileSetUpFirstView.swift */,
+				799BCBC82AFD66CC00DB265B /* DotaProfileSetUpSecondView.swift */,
+			);
+			path = DotaProfileSettings;
+			sourceTree = "<group>";
+		};
+		799BCBB92AFBEBF600DB265B /* Dota Profile */ = {
+			isa = PBXGroup;
+			children = (
+				7989CB572B0908C600B793BD /* DotaProfileViewModel.swift */,
+				7989CB512B07D5A000B793BD /* DotaProfileView.swift */,
+				7989CB442B02ABF600B793BD /* DotaProfileSettings */,
+				7989CB432B02ABDD00B793BD /* ExistingDotaProfile */,
+			);
+			path = "Dota Profile";
+			sourceTree = "<group>";
+		};
+		799BCBD42AFFEEFF00DB265B /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				79834A1C2AF54F2700520AF3 /* CustomButton.swift */,
+				7989CB592B09329100B793BD /* LogOutButton.swift */,
+				79B383682B1E31680015169B /* CustomBackButton.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		799BCBD52AFFEF0D00DB265B /* TextFields */ = {
+			isa = PBXGroup;
+			children = (
+				79834A262AF55A2100520AF3 /* CustomTextField.swift */,
+				79B383662B1A77210015169B /* MessageTextField.swift */,
+			);
+			path = TextFields;
+			sourceTree = "<group>";
+		};
+		799BCBD62AFFEF1C00DB265B /* ImageViews */ = {
+			isa = PBXGroup;
+			children = (
+				79834A2E2AF6BC7400520AF3 /* GradientBackgroundView.swift */,
+				799BCBCA2AFD843D00DB265B /* HeroPlaceholderImage.swift */,
+				799BCBCE2AFEBDA100DB265B /* UserAvatarPlaceholder.swift */,
+			);
+			path = ImageViews;
+			sourceTree = "<group>";
+		};
+		799BCBD72AFFEF2E00DB265B /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				799BCBD82AFFEF3F00DB265B /* GameCell.swift */,
+				79E9851C2B10F4B7003B32E6 /* GamerCell.swift */,
+				79B3835E2B169D950015169B /* ChatCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		799BCBDC2B000D5900DB265B /* Other Games View */ = {
+			isa = PBXGroup;
+			children = (
+				799BCBDD2B000D6A00DB265B /* ComingSoonView.swift */,
+			);
+			path = "Other Games View";
+			sourceTree = "<group>";
+		};
+		79B383212B13E4790015169B /* Favorites */ = {
+			isa = PBXGroup;
+			children = (
+				79B383222B13E4930015169B /* FavoritesViewModel.swift */,
+				79834A492AF981D500520AF3 /* Favorites.swift */,
+				79B383242B13EA500015169B /* FavoritesDetailView.swift */,
+			);
+			path = Favorites;
+			sourceTree = "<group>";
+		};
+		79B383552B16938B0015169B /* Chats */ = {
+			isa = PBXGroup;
+			children = (
+				79B383582B1697F60015169B /* ChatsViewModel.swift */,
+				79834A472AF981C900520AF3 /* ChatsList.swift */,
+				79B383602B1A51B40015169B /* ChatDetailView.swift */,
+				79B383622B1A52C00015169B /* TitleRow.swift */,
+				79B383642B1A6F2F0015169B /* MessageBubble.swift */,
+			);
+			path = Chats;
+			sourceTree = "<group>";
+		};
+		79E9851E2B110954003B32E6 /* Users List */ = {
+			isa = PBXGroup;
+			children = (
+				79E9851F2B11097A003B32E6 /* UsersListViewModel.swift */,
+				79834A452AF981BA00520AF3 /* UsersList.swift */,
+				79B3831F2B13DD320015169B /* UsersDetailViewModel.swift */,
+				79B3831B2B13A89D0015169B /* UsersDetailView.swift */,
+			);
+			path = "Users List";
+			sourceTree = "<group>";
+		};
+		79F3D3672AF2E73B004ADC8F = {
+			isa = PBXGroup;
+			children = (
+				79F3D3722AF2E73B004ADC8F /* TheGamerApp */,
+				79F3D3712AF2E73B004ADC8F /* Products */,
+				79834A3B2AF839AA00520AF3 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		79F3D3712AF2E73B004ADC8F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				79F3D3702AF2E73B004ADC8F /* TheGamerApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		79F3D3722AF2E73B004ADC8F /* TheGamerApp */ = {
+			isa = PBXGroup;
+			children = (
+				79F3D3732AF2E73B004ADC8F /* TheGamerApp.swift */,
+				79834A382AF834CC00520AF3 /* Managers */,
+				79834A372AF834BA00520AF3 /* Model */,
+				79834A212AF5571A00520AF3 /* Extensions */,
+				79834A172AF54BF000520AF3 /* Views */,
+				79834A2C2AF58CC500520AF3 /* Screens */,
+				79834A1E2AF555D000520AF3 /* Styles */,
+				79F3D3772AF2E73D004ADC8F /* Assets.xcassets */,
+				79834A332AF80C0800520AF3 /* GoogleService-Info.plist */,
+				79F3D3792AF2E73D004ADC8F /* Preview Content */,
+			);
+			path = TheGamerApp;
+			sourceTree = "<group>";
+		};
+		79F3D3792AF2E73D004ADC8F /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				79F3D37A2AF2E73D004ADC8F /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		79F3D36F2AF2E73B004ADC8F /* TheGamerApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 79F3D37E2AF2E73D004ADC8F /* Build configuration list for PBXNativeTarget "TheGamerApp" */;
+			buildPhases = (
+				79F3D36C2AF2E73B004ADC8F /* Sources */,
+				79F3D36D2AF2E73B004ADC8F /* Frameworks */,
+				79F3D36E2AF2E73B004ADC8F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TheGamerApp;
+			packageProductDependencies = (
+				79834A312AF7F9FC00520AF3 /* FirebaseAuth */,
+				79834A3C2AF839AA00520AF3 /* FirebaseFirestore */,
+				799BCBBE2AFC25C200DB265B /* FirebaseStorage */,
+				79B3835A2B16985D0015169B /* FirebaseFirestoreSwift */,
+			);
+			productName = TheGamerApp;
+			productReference = 79F3D3702AF2E73B004ADC8F /* TheGamerApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		79F3D3682AF2E73B004ADC8F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					79F3D36F2AF2E73B004ADC8F = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 79F3D36B2AF2E73B004ADC8F /* Build configuration list for PBXProject "TheGamerApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 79F3D3672AF2E73B004ADC8F;
+			packageReferences = (
+				79834A302AF7F9FC00520AF3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
+			productRefGroup = 79F3D3712AF2E73B004ADC8F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				79F3D36F2AF2E73B004ADC8F /* TheGamerApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		79F3D36E2AF2E73B004ADC8F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79F3D37B2AF2E73D004ADC8F /* Preview Assets.xcassets in Resources */,
+				79834A342AF80C0800520AF3 /* GoogleService-Info.plist in Resources */,
+				79F3D3782AF2E73D004ADC8F /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		79F3D36C2AF2E73B004ADC8F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79834A4C2AF981DE00520AF3 /* GameSelectionView.swift in Sources */,
+				7989CB422B02ABD800B793BD /* DotaProfileExistingViewModel.swift in Sources */,
+				7989CB5A2B09329100B793BD /* LogOutButton.swift in Sources */,
+				79834A162AF544E600520AF3 /* MainView.swift in Sources */,
+				79B383252B13EA500015169B /* FavoritesDetailView.swift in Sources */,
+				799BCBBB2AFBEC4000DB265B /* DotaProfileSetUpFirstView.swift in Sources */,
+				79B3831C2B13A89D0015169B /* UsersDetailView.swift in Sources */,
+				79834A2B2AF565C400520AF3 /* Regex.swift in Sources */,
+				79F3D3762AF2E73B004ADC8F /* EnterView.swift in Sources */,
+				79B3835F2B169D950015169B /* ChatCell.swift in Sources */,
+				79F3D3742AF2E73B004ADC8F /* TheGamerApp.swift in Sources */,
+				79834A252AF5574E00520AF3 /* StringExt.swift in Sources */,
+				7989CB522B07D5A000B793BD /* DotaProfileView.swift in Sources */,
+				79B3835D2B1699490015169B /* Message.swift in Sources */,
+				79834A292AF5620100520AF3 /* EnterViewModel.swift in Sources */,
+				79834A272AF55A2100520AF3 /* CustomTextField.swift in Sources */,
+				799BCBCB2AFD843D00DB265B /* HeroPlaceholderImage.swift in Sources */,
+				799BCBC12AFC280B00DB265B /* StorageManager.swift in Sources */,
+				79834A462AF981BA00520AF3 /* UsersList.swift in Sources */,
+				7989CB4A2B055F2500B793BD /* LoadingView.swift in Sources */,
+				799BCBCF2AFEBDA100DB265B /* UserAvatarPlaceholder.swift in Sources */,
+				79834A2F2AF6BC7400520AF3 /* GradientBackgroundView.swift in Sources */,
+				799BCBDE2B000D6A00DB265B /* ComingSoonView.swift in Sources */,
+				79834A1D2AF54F2700520AF3 /* CustomButton.swift in Sources */,
+				79B383652B1A6F2F0015169B /* MessageBubble.swift in Sources */,
+				7989CB402B02AB8A00B793BD /* DotaProfileExistingView.swift in Sources */,
+				79834A4F2AF990B800520AF3 /* GameSelectionViewModel.swift in Sources */,
+				799BCBC32AFC2AAD00DB265B /* ErrorManager.swift in Sources */,
+				799BCBCD2AFD8A1500DB265B /* ImageExt.swift in Sources */,
+				79834A362AF8339C00520AF3 /* UserProfile.swift in Sources */,
+				7989CB502B07D16400B793BD /* User.swift in Sources */,
+				79B383572B1697930015169B /* Chat.swift in Sources */,
+				799BCBE02B00112200DB265B /* Game.swift in Sources */,
+				79B383592B1697F60015169B /* ChatsViewModel.swift in Sources */,
+				79B383202B13DD320015169B /* UsersDetailViewModel.swift in Sources */,
+				79E9851D2B10F4B7003B32E6 /* GamerCell.swift in Sources */,
+				79B383632B1A52C00015169B /* TitleRow.swift in Sources */,
+				79834A3A2AF834DE00520AF3 /* DataManager.swift in Sources */,
+				79B383232B13E4930015169B /* FavoritesViewModel.swift in Sources */,
+				799BCBC52AFC2E4700DB265B /* DotaProfileSetUpViewModel.swift in Sources */,
+				79E985202B11097A003B32E6 /* UsersListViewModel.swift in Sources */,
+				79834A4A2AF981D500520AF3 /* Favorites.swift in Sources */,
+				79B383692B1E31680015169B /* CustomBackButton.swift in Sources */,
+				79834A202AF555E600520AF3 /* CusttomTextFieldStyle.swift in Sources */,
+				79B383612B1A51B40015169B /* ChatDetailView.swift in Sources */,
+				79834A482AF981C900520AF3 /* ChatsList.swift in Sources */,
+				799BCBC72AFC570900DB265B /* DotaHeroes.swift in Sources */,
+				799BCBC92AFD66CC00DB265B /* DotaProfileSetUpSecondView.swift in Sources */,
+				79B383672B1A77210015169B /* MessageTextField.swift in Sources */,
+				7989CB582B0908C600B793BD /* DotaProfileViewModel.swift in Sources */,
+				799BCBD92AFFEF3F00DB265B /* GameCell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		79F3D37C2AF2E73D004ADC8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		79F3D37D2AF2E73D004ADC8F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		79F3D37F2AF2E73D004ADC8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TheGamerApp/Preview Content\"";
+				DEVELOPMENT_TEAM = TF9W7T465C;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kruchman.TheGamerApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		79F3D3802AF2E73D004ADC8F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TheGamerApp/Preview Content\"";
+				DEVELOPMENT_TEAM = TF9W7T465C;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kruchman.TheGamerApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		79F3D36B2AF2E73B004ADC8F /* Build configuration list for PBXProject "TheGamerApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79F3D37C2AF2E73D004ADC8F /* Debug */,
+				79F3D37D2AF2E73D004ADC8F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79F3D37E2AF2E73D004ADC8F /* Build configuration list for PBXNativeTarget "TheGamerApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79F3D37F2AF2E73D004ADC8F /* Debug */,
+				79F3D3802AF2E73D004ADC8F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		79834A302AF7F9FC00520AF3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		79834A312AF7F9FC00520AF3 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 79834A302AF7F9FC00520AF3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		79834A3C2AF839AA00520AF3 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 79834A302AF7F9FC00520AF3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		799BCBBE2AFC25C200DB265B /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 79834A302AF7F9FC00520AF3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+		79B3835A2B16985D0015169B /* FirebaseFirestoreSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 79834A302AF7F9FC00520AF3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestoreSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 79F3D3682AF2E73B004ADC8F /* Project object */;
+}

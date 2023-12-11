@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD8B37F8-0927-4DE8-BA86-CFC0E79323F8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53B9C855-6A9A-4A98-9FC8-029258FBC865"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Profile/Other Games View/TestViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getRandomHero(heroName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53B9C855-6A9A-4A98-9FC8-029258FBC865 - 5916ef5b8587ba4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "53B9C855-6A9A-4A98-9FC8-029258FBC865 - 968a871269ea0c7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "53B9C855-6A9A-4A98-9FC8-029258FBC865 - 2bd8e2e226d4f1d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7D4E7A2-8484-4E3E-B2A8-D160F8A899AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Profile/Other Games View/TestViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getRandomHero(heroName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7D4E7A2-8484-4E3E-B2A8-D160F8A899AC - 2bd8e2e226d4f19b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "B7D4E7A2-8484-4E3E-B2A8-D160F8A899AC - 192ab8c0b9d0d8f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "B7D4E7A2-8484-4E3E-B2A8-D160F8A899AC - c15e4d92c0ab3d99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "B7D4E7A2-8484-4E3E-B2A8-D160F8A899AC - ca1e9ccb7e4edf98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "871CEF43-AC7E-4623-A569-CE2BCD27D885"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Profile/Other Games View/TestViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getRandomHero(heroName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "871CEF43-AC7E-4623-A569-CE2BCD27D885 - 2bd8e2e226d4f19b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "871CEF43-AC7E-4623-A569-CE2BCD27D885 - 192ab8c0b9d0d8f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "871CEF43-AC7E-4623-A569-CE2BCD27D885 - c15e4d92c0ab3d99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "871CEF43-AC7E-4623-A569-CE2BCD27D885 - ca1e9ccb7e4edf98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46D5B8D8-5C8D-487E-8910-382809AD86A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Profile/Other Games View/TestViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getRandomHero(heroName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46D5B8D8-5C8D-487E-8910-382809AD86A7 - c15e4d92c0ab3db8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "46D5B8D8-5C8D-487E-8910-382809AD86A7 - c15e4d92c0ab3db8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12C971A4-15D6-49E2-98C7-BF63DB0858C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Profile/Other Games View/TestViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getRandomHero(heroName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FDE966F-8591-4C9E-B1F6-8C7C67BF7375"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Profile/Other Games View/TestViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getRandomHero(heroName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ADCAE7F-FDC9-4FAF-81A4-4F0B82ACBBC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Profile/Other Games View/TestViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getRandomHero(heroName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3ADCAE7F-FDC9-4FAF-81A4-4F0B82ACBBC7 - c15e4d92c0ab3c3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "3ADCAE7F-FDC9-4FAF-81A4-4F0B82ACBBC7 - ca1e9ccb7e4ede3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "3ADCAE7F-FDC9-4FAF-81A4-4F0B82ACBBC7 - ca1e9ccb7e4ede3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TheGamerApp.TestViewModel.getRandomHero(heroName: Swift.String) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Profile/Other%20Games%20View/TestViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B736BFA4-6036-4FC7-8630-CBCC5B108D1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Profile/Other Games View/TestViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getRandomHero(heroName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31001155-311B-4DF5-97DE-C53A16A2B905"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "getChats(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "31001155-311B-4DF5-97DE-C53A16A2B905 - 9c814c5f674c0b7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "31001155-311B-4DF5-97DE-C53A16A2B905 - bc16d34fcd2a01f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer() -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "31001155-311B-4DF5-97DE-C53A16A2B905 - bc16d34fcd2a01f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer() -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "31001155-311B-4DF5-97DE-C53A16A2B905 - bc16d34fcd2a01f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer() -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9147193E-81B1-454C-9346-C628CE5B1F4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "getChats(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9147193E-81B1-454C-9346-C628CE5B1F4D - 370a96b1ae3bcbdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+               <Location
+                  uuid = "9147193E-81B1-454C-9346-C628CE5B1F4D - e310989ee82e5b76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "9147193E-81B1-454C-9346-C628CE5B1F4D - e310989ee82e5b76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A617AD3E-D624-4605-ADCB-CB17C74F100B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "getChats(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A617AD3E-D624-4605-ADCB-CB17C74F100B - bc16d34fcd2a01d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer() -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A617AD3E-D624-4605-ADCB-CB17C74F100B - bc16d34fcd2a01d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer() -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0559CFE6-20EE-4FB1-B2D2-238509FED0FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0559CFE6-20EE-4FB1-B2D2-238509FED0FD - 9e9be01add084dbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TheGamerApp.Chat) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;TheGamerApp.LoadingView&gt;)&gt; in TheGamerApp.ChatsList.body.getter : some"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "0559CFE6-20EE-4FB1-B2D2-238509FED0FD - 99f23b966639c6d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (TheGamerApp.Chat) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;TheGamerApp.LoadingView&gt;)&gt; in TheGamerApp.ChatsList.body.getter : some"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "0559CFE6-20EE-4FB1-B2D2-238509FED0FD - 282f3e44adfbdd57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TheGamerApp.Chat) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;, Swift.Optional&lt;TheGamerApp.LoadingView&gt;)&gt; in TheGamerApp.ChatsList.body.getter : some"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "0559CFE6-20EE-4FB1-B2D2-238509FED0FD - eff4fc3e4b01ae1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (TheGamerApp.Chat) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;, Swift.Optional&lt;TheGamerApp.LoadingView&gt;)&gt; in TheGamerApp.ChatsList.body.getter : some"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EF43580-1FE4-41AA-8337-655B24463C6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "deleteChat(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7EF43580-1FE4-41AA-8337-655B24463C6D - 81a0848c7cd53c56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "7EF43580-1FE4-41AA-8337-655B24463C6D - 81a0848c7cd53cd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58B1B3FE-B480-49FE-96B2-BB1A73DDCAC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "deleteChat(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58B1B3FE-B480-49FE-96B2-BB1A73DDCAC0 - 81a0848c7cd53c77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "58B1B3FE-B480-49FE-96B2-BB1A73DDCAC0 - 81a0848c7cd53c77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "58B1B3FE-B480-49FE-96B2-BB1A73DDCAC0 - 81a0848c7cd53cf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "58B1B3FE-B480-49FE-96B2-BB1A73DDCAC0 - 81a0848c7cd53cf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92973E4F-EBDF-49E8-AB30-C7937A785197"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "deleteChat(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92973E4F-EBDF-49E8-AB30-C7937A785197 - 81a0848c7cd53c10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "92973E4F-EBDF-49E8-AB30-C7937A785197 - 81a0848c7cd53c31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "92973E4F-EBDF-49E8-AB30-C7937A785197 - 9e717fbc1598927a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "92973E4F-EBDF-49E8-AB30-C7937A785197 - 81a0848c7cd53d4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "92973E4F-EBDF-49E8-AB30-C7937A785197 - 9e717fbc159893c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "92973E4F-EBDF-49E8-AB30-C7937A785197 - 81a0848c7cd53cac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BB76AB1-7AD1-4772-A475-85A6FDAA1D76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3BB76AB1-7AD1-4772-A475-85A6FDAA1D76 - 7cc8e99dd5c11098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.IndexSet) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;TheGamerApp.LoadingView&gt;)&gt; in TheGamerApp.ChatsList.body.getter : some"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "3BB76AB1-7AD1-4772-A475-85A6FDAA1D76 - 7cc8e99dd5c11098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.IndexSet) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;SwiftUI.Text&gt;, Swift.Optional&lt;TheGamerApp.LoadingView&gt;)&gt; in TheGamerApp.ChatsList.body.getter : some"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "3BB76AB1-7AD1-4772-A475-85A6FDAA1D76 - d9b41f84bf0047a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.IndexSet) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, destination: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;, Swift.Optional&lt;TheGamerApp.LoadingView&gt;)&gt; in TheGamerApp.ChatsList.body.getter : some"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CDA6918-8368-46A3-8AB9-99D1492F2B5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "deleteChat(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1CDA6918-8368-46A3-8AB9-99D1492F2B5F - 9e717fbc1598927a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "1CDA6918-8368-46A3-8AB9-99D1492F2B5F - 9e717fbc159893c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "1CDA6918-8368-46A3-8AB9-99D1492F2B5F - 9e717fbc159893c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.deleteChat(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90BBBA52-F056-4781-B973-4C00984982BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90BBBA52-F056-4781-B973-4C00984982BE - 2fa606c5c52bca4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "90BBBA52-F056-4781-B973-4C00984982BE - 2fa606c5c52bca68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "90BBBA52-F056-4781-B973-4C00984982BE - 2fa606c5c52bca68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70F31A94-ACAD-41F5-A377-404D5B32E53B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70F31A94-ACAD-41F5-A377-404D5B32E53B - 620f3790ea83f8b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.__allocating_init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "70F31A94-ACAD-41F5-A377-404D5B32E53B - 9b1997d7806c4529"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3E1F520-816A-43CF-A2F1-DED2FB581A5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14FA87AC-3676-451E-BF8B-622431F27574"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14FA87AC-3676-451E-BF8B-622431F27574 - 9b1997d7806c46bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1108">
+               </Location>
+               <Location
+                  uuid = "14FA87AC-3676-451E-BF8B-622431F27574 - 2fa606c5c52bcaec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "14FA87AC-3676-451E-BF8B-622431F27574 - 2fa606c5c52bcaec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EB4FDEC-A803-41CF-9A21-C11E2B9C374B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1EB4FDEC-A803-41CF-9A21-C11E2B9C374B - 2fa606c5c52bcaec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "1EB4FDEC-A803-41CF-9A21-C11E2B9C374B - 2fa606c5c52bca0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4AD78ED-EA04-4544-831C-F89C8824C2F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4AD78ED-EA04-4544-831C-F89C8824C2F9 - 2fa606c5c52bca0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "E4AD78ED-EA04-4544-831C-F89C8824C2F9 - 2fa606c5c52bca2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; () in TheGamerApp.ChatsViewModel.init() -&gt; TheGamerApp.ChatsViewModel"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Screens/Chats/ChatsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7FFC845-25B9-4794-9C8D-951D5E372D34"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "getChats(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7FFC845-25B9-4794-9C8D-951D5E372D34 - 370a96b1ae3bcdcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "2588">
+               </Location>
+               <Location
+                  uuid = "C7FFC845-25B9-4794-9C8D-951D5E372D34 - 370a96b1ae3bcdcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "2448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56F4C2DA-EE30-4DAF-9206-BEE2C8AC4C00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "getChats(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56F4C2DA-EE30-4DAF-9206-BEE2C8AC4C00 - 370a96b1ae3bcc87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "56F4C2DA-EE30-4DAF-9206-BEE2C8AC4C00 - 370a96b1ae3bcc87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55506546-16E0-4674-9746-FC3521F5311B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "getChats(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55506546-16E0-4674-9746-FC3521F5311B - 46b7e91a466c0ab2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "55506546-16E0-4674-9746-FC3521F5311B - 46b7e91a466c0ab2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56FA5882-7941-428E-A72C-F26E109769F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "getChats(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BEC719E-B749-4A8A-B535-9D3F6A7D1064"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheGamerApp/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "getChats(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BEC719E-B749-4A8A-B535-9D3F6A7D1064 - 46b7e91a466c0ad1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "3BEC719E-B749-4A8A-B535-9D3F6A7D1064 - 370a96b1ae3bcfdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TheGamerApp.UserProfile&gt;) -&gt; () in TheGamerApp.DataManager.getChats(completion: (Swift.Array&lt;TheGamerApp.Chat&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TheGamerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kruchman/Documents/Swift/My%20projects/TheGamerApp/TheGamerApp/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
